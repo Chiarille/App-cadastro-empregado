@@ -1,0 +1,127 @@
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.csproj.AssemblyReference.cache
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.Form1.resources
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.csproj.GenerateResource.cache
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.AssemblyInfoInputs.cache
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.AssemblyInfo.cs
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.sourcelink.json
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.exe
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.deps.json
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.runtimeconfig.json
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.pdb
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocal.5B5BBF7C.Up2Date
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\refint\AppLocalCSharp.dll
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.pdb
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.genruntimeconfig.cache
+C:\Users\lchia\Desktop\Port\Programação Back End GitHub\BackEnd\Tópico 3\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\ref\AppLocalCSharp.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.exe
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.deps.json
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.runtimeconfig.json
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.pdb
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.csproj.AssemblyReference.cache
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.Form1.resources
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.csproj.GenerateResource.cache
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.AssemblyInfoInputs.cache
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.AssemblyInfo.cs
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocal.5B5BBF7C.Up2Date
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\refint\AppLocalCSharp.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.pdb
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.genruntimeconfig.cache
+C:\Users\lchia\Desktop\Port\App Cadastro de Usuário\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\ref\AppLocalCSharp.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.exe
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.deps.json
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.runtimeconfig.json
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\AppLocalCSharp.pdb
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.csproj.AssemblyReference.cache
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.Form1.resources
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.csproj.GenerateResource.cache
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.AssemblyInfoInputs.cache
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.AssemblyInfo.cs
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocal.5B5BBF7C.Up2Date
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\refint\AppLocalCSharp.dll
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.pdb
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\AppLocalCSharp.genruntimeconfig.cache
+C:\Users\lchia\Desktop\Port\App Cadastro de empregado\AppLocalCSharp\AppLocalCSharp\obj\Debug\net8.0-windows\ref\AppLocalCSharp.dll
